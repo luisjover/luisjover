@@ -48,7 +48,7 @@
   <ul>
     <li>I am learning, in a self-taught way and through some free courses, everything I can about SCRUM and agile methodologies</li>
     <li>I'm learning, self-taught and through some free courses, everything I can about prompt engineering and AI.</li>
-    <li>I'm learning and practicing a lot with Figma, as well as other design tools, to get more solid designs and make the front end styling process faster and more robust (https://lnkd.in/ddpSKa87). </li>
+    <li>I'm learning and practicing a lot with Figma, as well as other design tools, to get more solid designs and make the front end styling process faster and more robust (<a href=https://bit.ly/myfigma_project>Figma Project</a>). </li>
     <li>I am studying UI/UX on my own, because I consider that it is the ultimate goal of all development. Applications are built to be used.</li>
     <li>I am looking forward to consolidating my new knowledge to launch myself into new languages ​​and technologies. Step by step, but without pause...</li>
   </ul>
