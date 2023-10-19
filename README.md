@@ -35,8 +35,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/posts/luisjoverdev_react-typescript-frontend-activity-7094345767816994817-QdDV?utm_source=share&utm_medium=member_desktop">🎮 Check out the Project Demo</a> |
-  <a href="https://github.com/JaviGCK/Apollofy-Hamilton.git">📋 Check out the Project Repo</a>
+  <a href="https://apollofy-frontend.vercel.app/">🎮 Check out the Project Deeployed</a> |
+  <a href="https://github.com/luisjover/apollofy-frontend">📋 Check out the Project Repo</a>
 </div>
 
 <br/>
