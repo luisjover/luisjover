@@ -15,6 +15,16 @@
 </p>
 
 <br/>
+<br/>
+<br/>
+
+<div align="center" style="display: flex">
+  <a href="https://app.daily.dev/luisjover"><img src="https://api.daily.dev/devcards/dd4720168aa1422493a8913ec48bc069.png?r=4lg" width="400" alt="Luis Jover's Dev Card"/></a>
+</div>
+
+
+
+<br/>
 
 <div align="center">
   <a href="mailto:luisjoverdev@gmail.com">📫 Contact Me</a> |
