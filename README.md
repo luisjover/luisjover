@@ -99,7 +99,7 @@
 <br/>
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,sass,bootstrap,git,github,react,vite,nextjs,redux,styledcomponents,nodejs,express,mongodb,postgres,prisma,jest,vscode,postman,figma,ps,ai,discord&perline=13)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,sass,bootstrap,git,github,react,vite,nextjs,redux,styledcomponents,nodejs,express,mongodb,postgres,prisma,jest,vscode,postman,figma,firebase,ps,ai,discord,regex&perline=14)](https://skillicons.dev)
   
 </div>
 
