@@ -39,7 +39,7 @@
 </div>
 <p>
   I'm currently working together with my team at <a href="https://assemblerinstitute.com/"><b></b>Assembler Institute</b></a> on a music app, with some artist music in the style of Spotify, but with the built-in functionality of being able to upload your own music, either publicly or privately, in the style of SoundCloud.
-  The project is done in React + TypeScript with Vite.js for the front end, and PostgreSQL + Express + Prisma for the back end, integrating @Auth0 for user authentication and Cloudinary for asset storage, among other libraries and resources.
+  The project is done in React + TypeScript with Vite.js for the front end, Mongodb + Express + Prisma for the back end, and PostgreSQL + Express + Prisma for a second database used for measure user stats as views, shares, etc.. integrating @Auth0 for user authentication and Cloudinary for asset storage, among other libraries and resources.
 </p>
 
 <br/>
@@ -56,11 +56,13 @@
 <p>
   I am currently on a learning journey at <a href="https://assemblerinstitute.com/">Assembler Institute</a>, exploring various aspects of Full Stack development, soft skills and work environment and working methodologies. But my concerns do not end there:<br/>
   <ul>
+    <li>I am slowly starting to study AWS</li>
     <li>I am learning, in a self-taught way and through some free courses, everything I can about SCRUM and agile methodologies</li>
     <li>I'm learning, self-taught and through some free courses, everything I can about prompt engineering and AI.</li>
     <li>I'm learning and practicing a lot with Figma, as well as other design tools, to get more solid designs and make the front end styling process faster and more robust (<a href=https://bit.ly/myfigma_project>Figma Project</a>). </li>
     <li>I am studying UI/UX on my own, because I consider that it is the ultimate goal of all development. Applications are built to be used.</li>
     <li>I am looking forward to consolidating my new knowledge to launch myself into new languages ​​and technologies. Step by step, but without pause...</li>
+    <li>Next goal: Python + django</li>
   </ul>
 </p>
 
